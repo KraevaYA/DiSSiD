@@ -5,7 +5,7 @@ The method is based on the concepts of discord and snippet, which formalize, res
 
 # Citation
 ```
-@article{Kraeva2024,
+@article{Kraeva2023,
  author    = {Yana A. Kraeva},
  title     = {Detection of Time Series Anomalies Based on Data Mining and Neural Network Technologies},
  journal   = {Bulletin of the South Ural State University. Series: Computational Mathematics and Software Engineering},
